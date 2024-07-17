@@ -1,0 +1,10 @@
+.q {
+  display: flex;
+  height: 10svh;
+  width: 100vw;
+  justify-content: end;
+}
+.q h2 {
+  background-color: aliceblue;
+  gap: 20px;
+}

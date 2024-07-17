@@ -1,0 +1,73 @@
+h1 {
+  width: 100%;
+  color: rgb(0, 21, 255);
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 0.9699230033810399) 0%,
+    rgba(9, 9, 121, 1) 46%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  margin: 0px;
+}
+header {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  padding: 5px;
+  font-size: large;
+  background: rgb(4, 45, 248);
+}
+img {
+  height: 500px;
+}
+body {
+  padding: 0px;
+  margin: 0px;
+  background: rgb(2, 0, 36);
+  background: radial-gradient(
+    circle,
+    rgba(2, 0, 36, 0.9699230033810399) 0%,
+    rgba(0, 237, 255, 1) 100%
+  );
+}
+footer {
+  text-align: center;
+  font-size: larger;
+}
+.h9 {
+  width: 100%;
+  height: 10vh;
+  position: fixed;
+}
+.h2047 {
+  background-color: rgb(4, 21, 133);
+  width: 40%;
+  height: 20%;
+  color: azure;
+}
+ul {
+  padding: 0%;
+}
+main {
+  gap: 20px;
+  height: 100%;
+}
+.AaA {
+  width: 100%;
+  height: 10%;
+  background: rgb(2, 0, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 0, 0.97) 21%,
+    rgba(125, 125, 125, 1) 76%
+  );
+  position: fixed;
+}
+.jk {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  height: 100%;
+}

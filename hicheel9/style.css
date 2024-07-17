@@ -1,0 +1,160 @@
+header {
+  width: 100%;
+  height: 10vh;
+  background-color: rgb(97, 97, 97);
+  display: flex;
+  justify-content: space-between;
+}
+main {
+  width: 100%;
+  height: 90vh;
+  background-color: rgb(241, 241, 241);
+  display: flex;
+  justify-content: space-between;
+}
+.f {
+  width: 45%;
+  height: 100%;
+  background-color: rgb(68, 68, 68);
+  display: flex;
+  justify-content: space-between;
+}
+.right {
+  width: 20%;
+  height: 100%;
+  background-color: rgb(253, 251, 251);
+}
+.middle {
+  width: 45%;
+  height: 100%;
+  background-color: rgb(246, 242, 242);
+}
+.left {
+  width: 20%;
+  height: 100%;
+  background-color: rgb(246, 242, 242);
+}
+.pic {
+  width: 90%;
+  height: 60%;
+  background-color: rgb(254, 255, 255);
+}
+.container {
+  width: 100%;
+  height: 90%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+.profile {
+  width: 90%;
+  height: 10%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+}
+.desc {
+  width: 90%;
+  height: 10%;
+  background-color: rgb(255, 255, 255);
+}
+.like {
+  width: 90%;
+  height: 10%;
+  background-color: rgb(255, 255, 255);
+}
+.cont2 {
+  width: 90%;
+  height: 10%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+}
+.sector1 {
+  width: 30%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  border-radius: 55%;
+}
+.sector2 {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(251, 249, 249);
+  text-align: center;
+  text-align: center;
+}
+.f1 {
+  width: 20%;
+  height: 100%;
+  background-color: rgb(115, 115, 117);
+}
+.f2 {
+  width: 20%;
+  height: 100%;
+  background-color: rgb(16, 18, 18);
+  display: flex;
+  justify-content: space-between;
+}
+.rah {
+  width: 15%;
+  height: 95%;
+  background-color: rgb(47, 47, 47);
+  text-align: center;
+  border-radius: 25%;
+}
+.rah2 {
+  width: 20%;
+  height: 100%;
+  background-color: rgb(68, 68, 68);
+  text-align: center;
+  border-radius: 25%;
+}
+.cont3 {
+  width: 100%;
+  height: 90%;
+  background-color: rgb(16, 16, 14);
+  display: flex;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+.font {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.rah2:hover {
+  background-color: rgb(145, 144, 144);
+}
+.rah:hover {
+  background-color: rgb(145, 144, 144);
+}
+.sector2:hover {
+  background-color: rgb(145, 144, 144);
+}
+.ash {
+  width: 15%;
+  height: 100%;
+}
+.ash2 {
+  width: 70%;
+  height: 100%;
+}
+.ash3 {
+  height: 100%;
+  width: 15%;
+}
+.ash3:hover {
+  background-color: rgb(126, 126, 126);
+}
+.ash:hover {
+  background-color: rgb(126, 126, 126);
+}
+.hi {
+  width: 15%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
