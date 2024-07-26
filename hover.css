@@ -26,3 +26,25 @@
   left: 0;
   right: 0;
 }
+section {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#image1,
+#image2,
+#image3 {
+  margin: 0;
+}
+#image1 {
+  position: absolute;
+  top: 22%;
+  opacity: 0.5;
+}
+#image3 {
+  position: absolute;
+  top: 22%;
+  opacity: 0.3;
+}
