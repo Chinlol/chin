@@ -5,6 +5,7 @@ header {
   display: flex;
   justify-content: space-between;
   color: #fff;
+  align-items: center;
 }
 .font {
   font-family: "Roboto", sans-serif;
@@ -28,37 +29,39 @@ header {
   flex-wrap: wrap;
   gap: 30px;
   justify-content: center;
+  margin-top: 100px;
 }
 .biggerbox {
   width: 35%;
-  height: 30%;
+  height: 25%;
   background-color: #fff;
   display: flex;
 }
 .bigbox1 {
-  width: 50%;
+  width: 45%;
   height: 50%;
   background-color: #fff;
 }
 .bigbox2 {
   width: 50%;
   height: 100%;
-  background-color: rgb(0, 221, 166);
+  background-color: #fff;
 }
 .box1 {
   width: 100%;
   height: 10%;
-  background-color: aliceblue;
+  background-color: #fff;
 }
 .box2 {
   width: 100%;
-  height: 50%;
-  background-color: brown;
+  height: 40%;
+  background-color: #fff;
+  color: rgb(100, 100, 100);
 }
 .box3 {
   width: 100%;
   height: 20%;
-  background-color: rgb(0, 95, 0);
+  background-color: #fff;
 }
 input {
   box-sizing: border-box;
@@ -83,14 +86,15 @@ body {
 .foot1 {
   width: 20%;
   height: 100%;
-  background-color: rgb(52, 104, 149);
+  background-color: rgb(0, 0, 0);
   color: #fff;
 }
 footer {
   width: 100vw;
-  height: 30vh;
+  height: 50vh;
   background-color: rgb(0, 44, 82);
   display: flex;
+  margin-top: 0px;
 }
 img {
   width: 100%;
@@ -103,11 +107,79 @@ h1 {
   width: 30%;
   height: 100%;
   display: flex;
+
+  align-items: center;
 }
 .ffff {
   width: 30%;
   height: 100%;
   display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 .head2 {
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: 3px solid rgb(255, 255, 255);
+  height: 60%;
+  width: 65%;
+  background-color: #000000;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.head1 {
+  width: 100;
+  height: 50%;
+}
+.pic {
+  width: 16%;
+  height: 100%;
+}
+.bottom {
+  height: 10%;
+  width: 50%;
+}
+.head3 {
+  background-color: rgb(63, 79, 255);
+  height: 65%;
+  width: 25%;
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  border: 3px solid white;
+}
+.head3:hover {
+  background-color: rgb(255, 255, 255);
+  color: #000000;
+  border: 3px solid rgb(0, 0, 0);
+}
+.head2:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+h3 {
+  margin: 0%;
+}
+.foot3 {
+  width: 15%;
+  height: 10%;
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+}
+.smal {
+  height: 30px;
+  width: 230px;
+}
+.h99 {
+  width: 70px;
+  height: 40px;
+  background-color: rgb(0, 66, 210);
+  border: 3px solid rgb(0, 0, 0);
+  color: #dadbf1;
+  border-radius: 25%;
+  display: flex;
+  align-items: end;
+  justify-content: start;
+  position: fixed;
 }
