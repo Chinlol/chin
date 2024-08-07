@@ -1,0 +1,136 @@
+header {
+  width: 100vw;
+  height: 10vh;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 3px solid;
+}
+.hoarder1 {
+  width: 45%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+}
+.hoarder2 {
+  width: 25%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+}
+.holdepic {
+  width: 20%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.holde {
+  width: 10%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+}
+.holder {
+  width: 50%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+}
+.notbiggestbox {
+  width: 100vw;
+  height: 10vh;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+}
+.little {
+  height: 100%;
+  width: 7%;
+  background-color: rgb(255, 255, 255);
+}
+.bigolbox {
+  width: 100vw;
+  height: 80vh;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.picks {
+  width: 80%;
+  height: 99%;
+  background-color: rgb(255, 255, 255);
+}
+.bigolbox2 {
+  width: 100vw;
+  height: 60vh;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.words {
+  width: 60%;
+  height: 30%;
+  background-color: rgb(255, 255, 255);
+}
+.words2 {
+  width: 60%;
+  height: 30%;
+  background-color: rgb(255, 255, 255);
+  color: gray;
+}
+.waytoobigbox {
+  width: 100vw;
+  height: 120vh;
+  background-color: lightsteelblue;
+  display: flex;
+  justify-content: end;
+}
+.half {
+  width: 55%;
+  height: 100%;
+  background-color: orange;
+}
+.xcroll {
+  width: 100%;
+  height: 90%;
+  background-color: green;
+  position: absolute;
+  top: 1350px;
+  display: flex;
+  justify-content: space-around;
+}
+.picks img {
+  width: 100%;
+  height: 100%;
+}
+.picy1 {
+  width: 40%;
+  height: 100%;
+  background-color: limegreen;
+}
+.picy2 {
+  width: 35%;
+  height: 100%;
+  background-color: limegreen;
+  display: flex;
+  align-items: center;
+}
+.kk {
+  width: 100%;
+  height: 50%;
+  background-color: lightslategray;
+}
+svg {
+  width: 70%;
+  height: 70%;
+}
+.little3 {
+  height: 100%;
+  width: 10%;
+  background-color: rgb(255, 255, 255);
+}
+body {
+  margin: 0%;
+}
