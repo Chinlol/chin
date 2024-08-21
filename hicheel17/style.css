@@ -380,7 +380,7 @@ p {
   width: 100%;
   height: 25%;
 }
-.main-footer_button {
+input .main-footer_button {
   background-color: blue;
 }
 .hjhjh {
@@ -402,4 +402,26 @@ p {
 .thyend svg {
   height: 100%;
   width: 20%;
+}
+a {
+  text-decoration: none;
+}
+.looo {
+  font-size: 70px;
+  font-weight: 500;
+}
+.justin {
+  width: 100%;
+  height: 88%;
+  display: flex;
+}
+h4 {
+  margin: 10px;
+}
+.asdfg {
+}
+ul .main-footer_button {
+  width: 100;
+  height: 30%;
+  display: flex;
 }
